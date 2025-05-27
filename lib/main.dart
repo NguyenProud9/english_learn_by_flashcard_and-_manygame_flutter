@@ -22,7 +22,7 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:provider/provider.dart';
 import 'package:awesome_snackbar_content/awesome_snackbar_content.dart'; // Thêm import này
 
-const apiKey = 'AIzaSyAHCkPLRG7n1gNNW8nMn8xT-k-DGgQ05Fo';
+const apiKey = ' your key api gemini  ';
 
 // Khởi tạo GlobalKey để sử dụng ScaffoldMessenger
 final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey =
